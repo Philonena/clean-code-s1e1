@@ -45,16 +45,16 @@
 }
 
 .tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .task, .todo-app__title {
-  list-style:none;
+  list-style: none;
 }
 
 .input,.button{
-  outline:none;
+  outline: none;
 }
 
 .button {
@@ -152,14 +152,14 @@
 
 /* Edit Task */
 .task__input {
-  display:none
+  display: none
 }
 
 .task-edit .task__input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .task-edit .task__label {
-  display:none;
+  display: none;
 }
