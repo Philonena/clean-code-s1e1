@@ -51,7 +51,7 @@
 }
 
 .task, 
-.todo-app__title {
+.todo-app__section__title {
   list-style: none;
 }
 
@@ -75,7 +75,7 @@
 }
 
 /* Heading */
-.todo-app__title {
+.todo-app__section__title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
